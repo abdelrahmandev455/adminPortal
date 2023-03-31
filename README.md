@@ -38,9 +38,6 @@ CRUD Model View:
 
 ![LaraAdmin CRUD Model View](http://laraadmin.com/img/laraadmin/laraadmin-row-view.jpg)
 
-Online Code Editor:
-![Online Code Editor](http://laraadmin.com/img/laraadmin/laraadmin-online-code-editor.jpg)
-
 ### Installation & Documentation
 
 Documentation for the LaraAdmin can be found on the [LaraAdmin website](http://laraadmin.com/documentation).
@@ -60,19 +57,3 @@ If you come across any issue/bug please [report them here](https://github.com/dw
 ### License
 
 LaraAdmin is open-sourced software built by Dwij IT Solutions and contributors and licensed under the [MIT license](http://opensource.org/licenses/MIT).
-
-### Credits:
-- Ganesh Bhosale https://github.com/gdbhosale
-- Ganesh Khade https://github.com/moraya-re
-- https://github.com/almasaeed2010/AdminLTE
-- https://github.com/acacha/adminlte-laravel
-- https://github.com/yajra/laravel-datatables
-- https://github.com/creativeorange/gravatar
-
-<p align="center">
-  <br>
-  Brought to you by<br>
-  <a href="http://dwijitsolutions.com">
-  <img src="http://dwijitsolutions.com/wp-content/uploads/2016/01/dwij-it-solutions.png">
-  </a>
-</p>
